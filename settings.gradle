@@ -1,0 +1,1 @@
+include ':app', ':loginmodule', ':minemodule', ':xcrouterlib'
