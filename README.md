@@ -63,7 +63,7 @@ Android 大型项目组件化架构
 
 目前gradle3.0.0的功能和代码隔离效果见下图
  
-
+![iamge](https://raw.githubusercontent.com/jczmdeveloper/XCAppRouter/master/screenshots/compile.png)
 
 
 
